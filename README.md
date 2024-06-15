@@ -1,4 +1,4 @@
-# Project Title
+# Save clustered data to json
 
 This repository contains a shell script and a Python script that reads out the clustered data from the rosbags and save it to json files.
 
